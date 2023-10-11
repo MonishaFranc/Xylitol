@@ -1,0 +1,20 @@
+a.list-group-item {
+  text-decoration: underline;
+}
+
+a.list-group-item:hover {
+  background-color: #dad5ef;
+}
+
+a{
+  font-size: x-large;
+  color: blue;
+  font-style:italic;
+  ;
+}
+
+h3 {
+    font-size: 2.5rem;
+    color:indigo;
+     margin-top: 3rem;
+     }
